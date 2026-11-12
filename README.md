@@ -1,4 +1,4 @@
-# Time Series Exercise 1: Plot a Time Series Data
+# TS Exercise 1: Plot a Time Series Data
 
 ## Name: Boopathy S
 
