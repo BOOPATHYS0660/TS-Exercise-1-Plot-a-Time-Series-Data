@@ -4,7 +4,7 @@
 
 ## Roll no: 2305003002
 
-## Department: CSE
+## Department: AIML
 
 ## AIM
 
